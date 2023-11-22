@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Organic_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kalkulyator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson12_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_13/jasurtojiboyev" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repasitor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/telebot" vcs="Git" />
+  </component>
+</project>
